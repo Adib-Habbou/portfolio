@@ -14,17 +14,17 @@
   - Multi-Layer Perceptron
 - Designed an interactive DashBoard to present models results with *Streamlit*
 
-![](/images/pyLDAvis.png = 200x300)
-![](/images/ACCpng.png = 200x300)
-![](/images/conf.png = 200x300)
-![](/images/report.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/pyLDAvis.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/ACCpng.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/conf.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/report.png = 200x300)
 
 # [Project 2: Financial-Market-Modelisation](https://github.com/Adib-Habbou/financial-market-modelisation)
 
 - Built a modelisation of a financial market made up of two assets to determine the price and coverage of European options
 - Implemented 3 pricing models using Monte-Carlo, Cox-Ross-Rubinstein and Black-Scholes
 
-![](/images/19.png = 200x300)
-![](/images/prix%20bs%203d.png = 200x300)
-![](/images/comparaison%20pricers.png = 200x300)
-![](/images/erreur.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/19.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/prix%20bs%203d.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/comparaison%20pricers.png = 200x300)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/erreur.png = 200x300)
