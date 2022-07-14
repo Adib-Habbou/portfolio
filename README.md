@@ -1,6 +1,6 @@
 # Adib Habbou Portfolio
 
-# Project 1: Moroccan News Data Analysis
+# [Project 1: Moroccan News Data Analysis](https://github.com/Adib-Habbou/moroccan-news-data-analysis)
 
 - Developed Web Scraping program of 3 moroccan websites to collect multilingual textual data using *Selenium* and *BeautifulSoup4*
 - Created Textual Data Visualization using *Wordcloud*, *Seaborn*, *Plotly* and *Matplotlib*
@@ -14,7 +14,7 @@
   - Multi-Layer Perceptron
 - Designed an interactive DashBoard to present models results with *Streamlit*
 
-# Project 2: Financial-Market-Modelisation
+# [Project 2: Financial-Market-Modelisation](https://github.com/Adib-Habbou/financial-market-modelisation)
 
 - Built a modelisation of a financial market made up of two assets to determine the price and coverage of European options
 - Implemented 3 pricing models using Monte-Carlo, Cox-Ross-Rubinstein and Black-Scholes
