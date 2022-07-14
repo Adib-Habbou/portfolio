@@ -14,7 +14,8 @@
   - Multi-Layer Perceptron
 - Designed an interactive DashBoard to present models results with *Streamlit*
 
-![](https://github.com/Adib-Habbou/portfolio/blob/main/images/pyLDAvis.png){:height="36px" width="36px"}
+<img src="[https://your-image-url.type](https://github.com/Adib-Habbou/portfolio/blob/main/images/pyLDAvis.png)" width="100" height="100">
+
 ![](https://github.com/Adib-Habbou/portfolio/blob/main/images/ACCpng.png){:height="36px" width="36px"}
 ![](https://github.com/Adib-Habbou/portfolio/blob/main/images/conf.png){:height="36px" width="36px"}
 ![](https://github.com/Adib-Habbou/portfolio/blob/main/images/report.png){:height="36px" width="36px"}
